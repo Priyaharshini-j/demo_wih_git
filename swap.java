@@ -17,11 +17,9 @@ class swap {
     // Main driver code
     public static void main(String[] args)
     {
-        // Random integer values
-        int m = 9, n = 5;
- 
-        // Calling above function to
-        // reverse the numbers
+
+        int m = 3, n = 5;
+
         swapValuesUsingThirdVariable(m, n);
     }
 }
