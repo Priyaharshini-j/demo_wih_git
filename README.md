@@ -1,2 +1,2 @@
-# demo_wih_git
-Commiting 2 files with 
+# demo_with_git
+Commiting 2 files with git
